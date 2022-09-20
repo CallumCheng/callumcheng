@@ -1,5 +1,3 @@
-# about-callumcheng
-
 <h1 align="center">Hi 👋, I'm Callum Cheng</h1>
 <h3 align="center">A full-stack developer from Glasgow</h3>
 
