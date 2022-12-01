@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Callum Cheng</h1>
+<h1 align="center">Hi 👋, I'm Callum</h1>
 <h3 align="center">Developer | Scotland, UK</h3>
 
 <h3 align="left">Connect with me:</h3>
